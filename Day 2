@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Sameer day 2 of 60 days of learning
+        </title>
+    </head>
+<body>
+    <h1>
+        Hello World!!.
+    </h1>
+<h1><ins>Date : 2022/15/04</ins></h1>
+<!--This Code is written by sameer bhatt (sammy4447)-->
+    <p>
+       My name is <strong>Sameer Bhatt</strong>. This is my Day 2 of 60 days of learning conducted by leapfrog.Today i learnt about listing , 
+        nested lists and basic font styles in html.
+    </p>
+         <h2><ins>This is the process of making an omlete.</ins></h2>
+         
+         <h3><mark>*Ingridients</mark></h3>
+         <ul>
+             <li><b>Egg</b></li>
+             <li><b>Salt</b></li>
+             <li><b>Oil</b></li>
+         </ul>
+<!--This Code is written by sameer bhatt (sammy4447)-->
+         <h3><mark>*Steps</mark></h3>
+    <ol>
+        <li><strong>Start</strong></li>
+        <li><strong>Break egg</strong></li>
+        <li><strong>Add salt</strong></li>
+        <ul>
+            <li><i>Stir well</i></li>
+            <li<i>Let it settle</i></li>
+        </ul>
+        <li><strong>Turn on the gas</strong></li>
+        <ul>
+            <li><i>Put the pan on the gas</i></li>
+            <li><i>Add some oil</i></li>
+            <li><i>Let the oil heat</i></li>
+        </ul>
+        <li><strong>Fry the egg on pan</strong></li>
+        <ul>
+            <li><i>When the omlete becomes brown from sides</i></li>
+            <li<i>Turn off the gas</i></li>
+        </ul>
+        <li><strong>Enjoy your yummy Omlete</strong></li>
+        <li><strong>End</strong></li>
+
+    </ol>
+
+    <h1>Thank You And Nice To Meet You :)</h1>
+
+</body>
+
+</html>
+
+<!--This Code is written by sameer bhatt (sammy4447)-->
